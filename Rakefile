@@ -28,8 +28,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "cocoon"
-    gem.summary = %Q{gem that enables easier nested forms with standard forms, formtastic and simple-form}
-    gem.description = %Q{Unobtrusive nested forms handling, using jQuery. Use this and discover cocoon-heaven.}
+    gem.summary = %(gem that enables easier nested forms with standard forms, formtastic and simple-form)
+    gem.description = %(Unobtrusive nested forms handling, using jQuery. Use this and discover cocoon-heaven.)
     gem.email = "nathan@dixis.com"
     gem.homepage = "http://github.com/nathanvda/cocoon"
     gem.authors = ["Nathan Van der Auwera"]

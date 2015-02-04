@@ -44,5 +44,4 @@ describe Cocoon::Generators::InstallGenerator do
       end
     end
   end
-
 end
